@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/appaxaap" target="blank"><img src="https://img.shields.io/twitter/follow/appaxaap?logo=twitter&style=for-the-badge" alt="appaxaap" /></a> </p>
 
-- 🔭 I’m currently working on **Insta.toolx**
+- 🔭 I’m currently working on **Design industry**
 
 - 🌱 I’m currently learning **UX Designing**
 
 - 👯 I’m looking to collaborate on **Telegram clone**
 
-- 💬 Ask me about **Android , UIX Design**
+- 💬 Ask me about **Android App Development, UIX Design**
 
-- 📫 How to reach me **basimbasheer001@gmail.com**
+- 📫 How to reach me **bxm.bshr.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
