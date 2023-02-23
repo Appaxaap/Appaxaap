@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **UX Designing**
 
-- 👯 I’m looking to collaborate on **Telegram clone**
+- 👯 I’m looking for collaboration
 
 - 💬 Ask me about **Android App Development, UIX Design**
 
