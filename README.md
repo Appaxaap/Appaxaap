@@ -7,11 +7,10 @@ App developer and UIX Designer
 I'm Basim Basheer, a Android app developer and UIX Designer. As an app developer and UI/UX designer, I have spent several years working in the technology industry. Over the years, I have gained extensive experience in developing and designing mobile applications that are intuitive, visually appealing, and user-friendly. My focus has always been on creating apps that provide an exceptional user experience and exceed user expectations. If you are looking for someone with a wealth of experience in app development and UI/UX design, I would love to hear from you.
 
 *   🌍  I'm based in India, Kerala
-*   ✉️  You can contact me at [bxm.bshr.developer@gmail.com](mailto:bxm.bshr.developer@gmail.com)
-*   🚀  I'm currently working on [WiseCoinx, Wifi Academy](http://github.com/appx-store/WalletX)
-*   🧠  I'm learning UX, C#
-*   🤝  I'm open to collaborating on Social Application, Telegram clone
-*   ⚡  Working on new Social App### Skills 
+*   ✉️  You can contact me at [bxmbshr.work@gmail.com](mailto:bxmbshr.work@gmail.com)
+*   🧠  I'm learning UX, C#, C++
+*   🤝  I'm open to collaborating on Large scaling projects
+  
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
