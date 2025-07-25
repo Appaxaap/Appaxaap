@@ -1,4 +1,4 @@
-<!-- Animated Wave -->
+<!-- Hero Wave -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="70" />
 </p>
@@ -11,41 +11,48 @@
 
 ## 🚀 What I Do Best
 
-<div align="center">
+<p align="center">
+  <img src="https://img.icons8.com/fluency/64/design.png" width="48" alt="UI/UX" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/design.png" width="48" alt="UI/UX Design" />
-      <h3>🎨 UI / UX Design</h3>
-      <p>
-        Pixel-perfect interfaces, motion design,<br>
-        user flow mapping & branding systems.
-      </p>
-      <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,aftereffects,sketch" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/smartphone-tablet.png" width="48" alt="App Development" />
-      <h3>📱 App Development</h3>
-      <p>
-        Flutter-based cross-platform apps,<br>
-        Firebase backend, real-time systems.
-      </p>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,swift" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/laptop-coding.png" width="48" alt="Desktop Dev" />
-      <h3>🖥️ Desktop Engineering</h3>
-      <p>
-        Fast native tools with custom UI,<br>
-        C#/C++ builds, performance tuning.
-      </p>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,git,mysql" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🎨 UI / UX Design</h3>
+<p align="center">
+  Pixel-perfect interfaces, motion design,<br>
+  user flow mapping & branding systems.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,aftereffects,sketch" />
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/64/smartphone-tablet.png" width="48" alt="App Dev" />
+</p>
+
+<h3 align="center">📱 App Development</h3>
+<p align="center">
+  Flutter-based cross-platform apps,<br>
+  Firebase backend, real-time systems.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,swift" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/64/laptop-coding.png" width="48" alt="Desktop Dev" />
+</p>
+
+<h3 align="center">🖥️ Desktop Engineering</h3>
+<p align="center">
+  Fast native tools with custom UI,<br>
+  C#/C++ builds, performance tuning.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,git,mysql" />
+</p>
 
 ---
 
@@ -104,3 +111,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="280" alt="Buy Me A Coffee">
   </a>
 </p>
+
+---
