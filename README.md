@@ -62,9 +62,9 @@
 
 ## ◈ &nbsp;About
 
-I'm a designer-engineer hybrid — equally at home in Figma and a codebase. I run **Codecx**, a creative technology studio focused on building digital products that are considered in both craft and function.
+I'm a designer-engineer hybrid - equally at home in Figma and a codebase. I run **Codecx**, a creative technology studio focused on building digital products that are considered in both craft and function.
 
-My work sits at the intersection of visual design and software engineering — whether that's a precision-built mobile app, a motion-driven interface, or a native desktop tool. I believe the best products are ones where the engineering is invisible and the experience is everything.
+My work sits at the intersection of visual design and software engineering - whether that's a precision-built mobile app, a motion-driven interface, or a native desktop tool. I believe the best products are ones where the engineering is invisible and the experience is everything.
 
 Currently: building, shipping, iterating.
 
