@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/fef6709a-c86f-4a18-986c-835a850184a5" width="100%" alt="Basim Basheer — Privacy is a right, not a feature." />
+<img src="https://github.com/user-attachments/assets/fef6709a-c86f-4a18-986c-835a850184a5" width="100%" alt="Basim Basheer - Privacy is a right, not a feature." />
 
 </div>
 
@@ -22,7 +22,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Creative-Technology-243232?style=flat-square&labelColor=243232&color=3a524a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-UAE-243232?style=flat-square&labelColor=243232&color=3a524a" />
 </p>
 
 <p>
