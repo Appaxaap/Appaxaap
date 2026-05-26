@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/fef6709a-c86f-4a18-986c-835a850184a5" width="100%" alt="Basim Basheer — Privacy is a right, not a feature." />
@@ -72,41 +73,6 @@ Currently: building, shipping, iterating.
 
 ---
 
-## ◈ &nbsp;Craft
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎨 &nbsp;UI / UX Design
-Pixel-precise interfaces, motion systems, and end-to-end brand experiences. I care about the space between elements as much as the elements themselves.
-
-**Tools:** `Figma` `Adobe XD` `Photoshop` `After Effects` `Sketch`
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 &nbsp;App Development
-Cross-platform mobile apps built with Flutter. Firebase and Supabase for real-time systems. Native Kotlin or Swift when performance demands it.
-
-**Tools:** `Flutter` `Dart` `Firebase` `Supabase` `Kotlin` `Swift`
-
-</td>
-<td width="33%" valign="top">
-
-### 🖥️ &nbsp;Desktop & Web Engineering
-Fast native tooling in C# and C++. Modern web with Next.js and TypeScript. Custom UI, performance-critical builds, and system-level work.
-
-**Tools:** `C#` `C++` `Next.js` `TypeScript` `MySQL` `Git`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ## ◈ &nbsp;Stack
 
 <div align="center">
@@ -142,36 +108,13 @@ Fast native tooling in C# and C++. Modern web with Next.js and TypeScript. Custo
 
 ---
 
-## ◈ &nbsp;GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Appaxaap&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=BDC1BB&icon_color=3a524a&text_color=BDC1BB&ring_color=3a524a&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appaxaap&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=BDC1BB&text_color=BDC1BB" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appaxaap&hide_border=true&background=0d1117&stroke=3a524a&ring=BDC1BB&fire=BDC1BB&currStreakLabel=BDC1BB&sideLabels=BDC1BB&dates=6b7280" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Appaxaap&bg_color=0d1117&color=BDC1BB&line=3a524a&point=BDC1BB&area=true&area_color=243232&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
----
-
 ## ◈ &nbsp;Principles
 
-```
+```txt
   Form follows function — but function without form is forgettable.
   Build less. Mean more.
   The details are not the details. They make the design.
-```
+````
 
 ---
 
@@ -182,8 +125,6 @@ Fast native tooling in C# and C++. Modern web with Next.js and TypeScript. Custo
 > — Leonardo da Vinci
 
 </div>
-
----
 
 ---
 
@@ -200,3 +141,4 @@ Fast native tooling in C# and C++. Modern web with Next.js and TypeScript. Custo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243232,100:1a2e2a&height=80&section=footer" width="100%" />
 
 </div>
+```
